@@ -1,4 +1,4 @@
-# react-test
+# vue-test
 
 Basic vue test for newcomers.
 
